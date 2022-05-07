@@ -30,6 +30,10 @@ github_username:
 theme: texture
 plugins:
   - jekyll-feed
+texture:
+  title: Mellasonic
+  date_format: "%b %-d, %Y"
+  style: black
 
 # Exclude from processing.
 # The following items will not be processed, by default.
