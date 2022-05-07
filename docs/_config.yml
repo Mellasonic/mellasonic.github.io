@@ -27,7 +27,7 @@ twitter_username:
 github_username: 
 
 # Build settings
-remote_theme: poole/hyde
+remote_theme: samarsault/texture
 plugins:
   - jekyll-feed
 
