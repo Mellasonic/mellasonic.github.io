@@ -3,6 +3,9 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: home
-
-# Hello!
 ---
+{% for post in site.posts %}
+{{ post.title }}
+{{content}} 
+Read More 
+{% endfor %}
