@@ -36,6 +36,8 @@ texture:
   style: black
   showNav: true
   navigation:
+    - title: Home
+      url: "/"
     - title: About
       url: "/about"
 show_excerpts: true
