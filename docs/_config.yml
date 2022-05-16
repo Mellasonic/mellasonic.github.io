@@ -40,7 +40,7 @@ texture:
       url: "/about"
     - title: Home
       url: "/"
-  disqus_shortname: mellasonic
+  disqus_shortname: mellasonic-github-io
 show_excerpts: true
 
 # Exclude from processing.
