@@ -32,6 +32,7 @@ plugins:
   - jekyll-feed
 texture:
   title: Mellasonic
+  disqus_shortname: mellasonic-github-io
   date_format: "%b %-d, %Y"
   style: black
   showNav: true
@@ -40,7 +41,6 @@ texture:
       url: "/about"
     - title: Home
       url: "/"
-  disqus_shortname: mellasonic-github-io
 show_excerpts: true
 
 # Exclude from processing.
