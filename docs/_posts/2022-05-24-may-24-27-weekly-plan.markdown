@@ -9,7 +9,7 @@ date: 2022-05-24 09:25:00 -0400
 categories: plan
 
 ---
-| Task | Person | Importance | Hours |
+| Task | Person | Importance&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; | Hours |
 |-------|-------|-------|-------|
 | Draw sprites for level 1/3 | James | Sprites help to flesh out current copy | 4 |
 | Write blog posts | Eric | Important for communication to client and playerbase | 2 |
