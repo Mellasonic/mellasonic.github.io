@@ -1,4 +1,5 @@
 ---
+
 layout: post
 
 title: "May 24-27 Weekly Plan"
@@ -6,6 +7,7 @@ title: "May 24-27 Weekly Plan"
 date: 2022-05-24 09:25:00 -0400
 
 categories: plan
+
 ---
 | Task | Person | Importance | Hours |
 |-------|-------|-------|-------|
