@@ -2,7 +2,7 @@
 
 layout: post
 
-title: "ICS Blog Post Six"
+title: "May 30 - June 3 Weekly Plan"
 
 date: 2022-05-27 09:36:08 -0400
 
