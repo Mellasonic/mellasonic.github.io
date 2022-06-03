@@ -2,7 +2,7 @@
 
 layout: post
 
-title: "ICS Blog Post NIne"
+title: "ICS Blog Post Nine"
 
 date: 2022-06-03 9:36:08 -0400
 
