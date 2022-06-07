@@ -14,4 +14,4 @@ This week will be spent completing the game. First, the third level has been com
 
 We also created the main functions of level two, making cards appearing on the screen, though without graphics.
 
-Problems in creating the code include the leaderboard, which has not been working as we like it too, but discussing it with the group, the problem was soon solved.
+Problems in creating the code include the leaderboard, which has not been working as we like it to, but discussing it with the group, the problem was soon solved.
